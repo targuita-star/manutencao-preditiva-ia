@@ -81,7 +81,7 @@ predguard-4.0/
 
 ## 🎥 Demonstração em Vídeo
 
-* **Link do Vídeo no Google Drive:** `[INSIRA AQUI O LINK DO GOOGLE DRIVE EM MODO LEITOR]`
+* **Link do Vídeo no Google Drive:** https://drive.google.com/file/d/1vn1z2OOtptMBKRKAu3LySE530u2L9Wn3/view?usp=drivesdk
 
 ---
 
